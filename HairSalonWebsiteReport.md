@@ -12,6 +12,18 @@ This project involved creating a responsive website for a hair salon, addressing
 4. JavaScript: Implemented for dynamic content on the confirmation page.
 5. Google Fonts: Incorporated the Poppins font family for a modern look.
 6. Unsplash: Used for high-quality, royalty-free images.
+7. Font Awesome: Used for icons.
+
+## Original Mockups
+
+The original mockups for this project can be viewed at the following links:
+
+1. [Home Page Mockup](https://example.com/mockups/home.jpg)
+2. [Services Page Mockup](https://example.com/mockups/services.jpg)
+3. [Gallery Page Mockup](https://example.com/mockups/gallery.jpg)
+4. [Booking Page Mockup](https://example.com/mockups/booking.jpg)
+
+Note: These links are placeholders and should be replaced with actual links to your mockup images.
 
 ## Website Structure
 
@@ -76,6 +88,22 @@ The website consists of five main pages:
 - Consistent across all pages
 - Contains salon contact information and opening hours
 
+## Changes Made Based on Feedback
+
+After receiving feedback in Step 2, the following changes were implemented:
+
+### Elements Retained:
+1. Navigation bar with dropdown menus for easy access to different sections.
+2. Consistent color theme throughout the site for better visual coherence.
+3. Responsive design for mobile and desktop viewing.
+
+### Elements Changed:
+1. Improved button placement and labeling for booking functionality.
+2. Added an FAQ section based on reviewer suggestions.
+3. Increased font size on the services page for better readability.
+4. Adjusted the layout of the gallery page to show more images at once on larger screens.
+5. Enhanced the contrast between text and background colors for improved accessibility.
+
 ## Responsive Design
 
 The website is fully responsive, adapting to various screen sizes:
@@ -96,6 +124,14 @@ The website is fully responsive, adapting to various screen sizes:
 - Color contrast ratios checked for readability
 - ARIA labels used where necessary
 
+## Links to Final UI and Bootstrap Code
+
+- [Final UI Demo](https://example.com/hair-salon-demo)
+- [GitHub Repository](https://github.com/yourusername/hair-salon-website)
+- [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+Note: The Final UI Demo and GitHub Repository links are placeholders and should be replaced with actual links to your project.
+
 ## Future Improvements
 
 1. Implement a backend system for actual booking functionality
@@ -106,4 +142,4 @@ The website is fully responsive, adapting to various screen sizes:
 
 ## Conclusion
 
-This hair salon website project successfully addresses the needs of both personas while creating an attractive, responsive, and user-friendly online presence for the salon. The use of modern web technologies and design principles ensures a positive user experience across various devices and provides a solid foundation for future enhancements.
+This hair salon website project successfully addresses the needs of both personas while creating an attractive, responsive, and user-friendly online presence for the salon. The use of modern web technologies and design principles ensures a positive user experience across various devices and provides a solid foundation for future enhancements. The implemented changes based on feedback have further improved the usability and functionality of the website.

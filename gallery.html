@@ -27,38 +27,95 @@
   </head>
   <body>
     <!-- header -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <div class="container">
-        <a class="navbar-brand" href="./index.html">Stylish Cuts</a>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-              <a class="nav-link " href="./index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link " href="./services.html">Services</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link active" href="./gallery.html">Gallery</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./booking.html">Book Now</a>
-            </li>
-          </ul>
+       <!-- header -->
+       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+          <a class="navbar-brand" href="./index.html">Stylish Cuts</a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="./index.html">Home</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle"
+                  href="./services.html"
+                  id="servicesDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Services
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
+                  <li>
+                    <a class="dropdown-item" href="./services.html#haircuts"
+                      >Haircuts</a
+                    >
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="./services.html#coloring"
+                      >Coloring</a
+                    >
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="./services.html#styling"
+                      >Styling</a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link active dropdown-toggle"
+                  href="./gallery.html"
+                  id="galleryDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Gallery
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="galleryDropdown">
+                  <li>
+                    <a class="dropdown-item" href="./gallery.html#haircuts"
+                      >Haircuts</a
+                    >
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="./gallery.html#coloring"
+                      >Coloring</a
+                    >
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="./gallery.html#styling"
+                      >Styling</a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link " href="./booking.html">Book Now</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link " href="./faq.html">FAQ</a>
+              </li>
+            </ul>
+          </div>
         </div>
-      </div>
-    </nav>
+      </nav>
+      
 
     <!-- hero section -->
 
