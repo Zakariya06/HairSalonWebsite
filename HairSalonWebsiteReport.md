@@ -126,11 +126,10 @@ The website is fully responsive, adapting to various screen sizes:
 
 ## Links to Final UI and Bootstrap Code
 
-- [Final UI Demo](https://shophaircut.netlify.app/)
-- [GitHub Repository](https://github.com/yourusername/hair-salon-website)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-
-Note: The Final UI Demo and GitHub Repository links are placeholders and should be replaced with actual links to your project.
+- [Final UI Demo](https://shophaircut.netlify.app/) "https://shophaircut.netlify.app/"
+- [GitHub Repository](https://github.com/Zakariya06/HairSalonWebsite) "https://github.com/Zakariya06/HairSalonWebsite"
+- [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/) "https://getbootstrap.com/docs/5.3/getting-started/introduction/"
+ 
 
 ## Future Improvements
 
